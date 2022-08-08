@@ -1,8 +1,8 @@
 {
   "files": {
     "main.css": "/static/css/main.af312623.chunk.css",
-    "main.js": "/static/js/main.cddb8f61.chunk.js",
-    "main.js.map": "/static/js/main.cddb8f61.chunk.js.map",
+    "main.js": "/static/js/main.209abb2a.chunk.js",
+    "main.js.map": "/static/js/main.209abb2a.chunk.js.map",
     "runtime-main.js": "/static/js/runtime-main.a8bbbe7c.js",
     "runtime-main.js.map": "/static/js/runtime-main.a8bbbe7c.js.map",
     "static/css/2.dbfd23cf.chunk.css": "/static/css/2.dbfd23cf.chunk.css",
@@ -12,7 +12,7 @@
     "static/css/2.dbfd23cf.chunk.css.map": "/static/css/2.dbfd23cf.chunk.css.map",
     "static/css/main.af312623.chunk.css.map": "/static/css/main.af312623.chunk.css.map",
     "static/js/2.4f813004.chunk.js.LICENSE.txt": "/static/js/2.4f813004.chunk.js.LICENSE.txt",
-    "static/js/main.cddb8f61.chunk.js.LICENSE.txt": "/static/js/main.cddb8f61.chunk.js.LICENSE.txt",
+    "static/js/main.209abb2a.chunk.js.LICENSE.txt": "/static/js/main.209abb2a.chunk.js.LICENSE.txt",
     "static/media/Afonso.jpeg": "/static/media/Afonso.f6d3d2d6.jpeg",
     "static/media/Lilia.jpg": "/static/media/Lilia.ef58fa58.jpg",
     "static/media/Ruben.jpeg": "/static/media/Ruben.5f017d6a.jpeg",
@@ -42,6 +42,6 @@
     "static/css/2.dbfd23cf.chunk.css",
     "static/js/2.4f813004.chunk.js",
     "static/css/main.af312623.chunk.css",
-    "static/js/main.cddb8f61.chunk.js"
+    "static/js/main.209abb2a.chunk.js"
   ]
 }
